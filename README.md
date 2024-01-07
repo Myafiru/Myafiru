@@ -5,7 +5,7 @@
              .###@!!$:                           |
              `##@@!$:                            |
               `#@!!$                             |
-        !@#    `#@!$:       @#$                  | I AM THE CODE THAT IS APPROACHING
+        !@#    `#@!$:       @#$                  |  I AM THE CODE THAT IS APPROACHING
          #$     `#@!$:       !@!                 |
                   '@!$:                          |
               '`\   "!$: /`'                     |
